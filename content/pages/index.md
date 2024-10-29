@@ -99,9 +99,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Bárbara Mayara \U0001F60D\"\n"
         name: John Doe
         title: CEO at Parks
         image:
