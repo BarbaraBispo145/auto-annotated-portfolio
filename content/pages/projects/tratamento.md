@@ -6,7 +6,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/WhatsApp Image 2024-10-29 at 10.44.53.jpeg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
