@@ -101,7 +101,7 @@ sections:
       - type: Testimonial
         quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Barbara Mayara \U0001F60D\"\n"
         name: Lucineide
-        title: Botox
+        title: Cliente
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.19.55.jpeg
