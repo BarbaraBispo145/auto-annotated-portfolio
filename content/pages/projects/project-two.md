@@ -5,12 +5,6 @@ colors: colors-a
 date: ''
 client: "“Você merece se sentir incrível todos os dias.\U0001F451"
 description: Studio que começou a jornada na beleza em 2016
-featuredImage:
-  type: ImageBlock
-  url: /images/Barbara Nova Logo 1.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
