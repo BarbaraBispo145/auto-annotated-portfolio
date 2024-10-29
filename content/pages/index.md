@@ -53,10 +53,9 @@ sections:
       EU SOU PROFISSIONAL EM CUIDAR DA PARTE DO SEU CORPO QUE VOCÊ MAIS GOSTA,
       SEU CABELO!
     subtitle: >-
-      Barbara Mayara, minha jornada na beleza começou em 2016. Sempre tive esse
-      Sonho de me tomar cabeleireira desse de criança, hoje estou realizada! Sou
-      mãe. Sou esposa e tenho o meu próprio negócio que desde o começo soube que
-      está no planos de Deus. 
+      Sempre tive esse Sonho de me tomar cabeleireira desse de criança, hoje
+      estou realizada! Sou mãe. Sou esposa e tenho o meu próprio negócio que
+      desde o começo soube que está no planos de Deus.
     styles:
       self:
         height: auto
