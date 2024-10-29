@@ -17,9 +17,12 @@ sections:
       EU SOU PROFISSIONAL EM CUIDAR DA PARTE DO SEU CORPO QUE VOCÊ MAIS GOSTA,
       SEU CABELO!
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Barbara Mayara, minha jornada na beleza começou em 2016. Sempre tive esse
+      Sonho de me tomar cabeleireira desse de criança, hoje estou realizanda!sou
+      mãe, sou esposa e tenho o meu próprio negócio Studio Barbara Mayara está
+      no planos de Deus. O Studio Barbara Mayara fica localizado na casa de meus
+      pais, na rua Principal loteamento senhor do Bonfim,um lugar acolhedor,e
+      voltado pra o cuidado com bem-estar e autoestima.
     styles:
       self:
         height: auto
