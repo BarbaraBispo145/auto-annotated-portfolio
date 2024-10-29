@@ -106,7 +106,7 @@ sections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/WhatsApp Image 2024-10-29 at 12.19.55.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
