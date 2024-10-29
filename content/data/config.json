@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "Minha Base",
-                "url": "https://www.bibliaon.com/versiculo/isaias_12_2/"
+                "url": "https://www.bibliaon.com/versiculo/isaias_12_2/",
+                "altText": "Fonte de tudo que tenho"
             }
         ],
         "socialLinks": [
