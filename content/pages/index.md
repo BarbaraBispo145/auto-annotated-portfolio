@@ -62,6 +62,7 @@ sections:
         url: 'https://www.instagram.com/studio_barbaramayara_hair/'
         showIcon: true
         icon: instagram
+        iconPosition: right
     showDate: false
     showDescription: true
     showFeaturedImage: true
