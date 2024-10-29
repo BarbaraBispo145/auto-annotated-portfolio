@@ -124,7 +124,7 @@ sections:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.30.46.jpeg
           altText: Debora
-          caption: Caption of the image
+          caption: Botox
           elementId: ''
         elementId: ''
         styles:
