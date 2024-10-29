@@ -148,7 +148,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Entre em contato conosco e faça sua Avaliação e Agendamento ⤵️☎️\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
