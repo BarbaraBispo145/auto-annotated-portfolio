@@ -214,4 +214,5 @@ sections:
         textAlign: left
 socialImage: /images/Barbara Nova Logo 1.png
 metaDescription: Cabelereira
+addTitleSuffix: true
 ---
