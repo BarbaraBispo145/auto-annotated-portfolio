@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: This is a project title
 date: '2024-10-29'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
