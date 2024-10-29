@@ -119,7 +119,7 @@ sections:
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
         name: Débora
-        title: Product Marketing Manager at Acme
+        title: Cliente
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.30.46.jpeg
