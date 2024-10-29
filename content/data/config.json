@@ -32,13 +32,6 @@
                 "label": "WhatsApp",
                 "url": "https://www.instagram.com/studio_barbaramayara_hair/",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
