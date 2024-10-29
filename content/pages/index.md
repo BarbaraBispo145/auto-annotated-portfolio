@@ -4,7 +4,7 @@ title: Studio Barbara Mayara Hair
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/fundo-preto-com-foco-de-luz_1017-27230.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
