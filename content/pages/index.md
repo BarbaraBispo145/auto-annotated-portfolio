@@ -73,6 +73,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/tratamento.md
       - content/pages/projects/trataments.md
+      - content/pages/projects/progressiva.md
     styles:
       self:
         height: auto
