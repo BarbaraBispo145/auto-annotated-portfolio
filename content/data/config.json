@@ -68,12 +68,6 @@
                 "label": "Instagram ",
                 "url": "https://www.instagram.com/studio_barbaramayara_hair/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
