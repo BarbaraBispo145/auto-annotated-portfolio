@@ -175,7 +175,7 @@ sections:
           type: TextFormControl
         - name: email
           label: Email
-          hideLabel: false
+          hideLabel: true
           placeholder: WhatsApp
           isRequired: true
           width: 1/2
