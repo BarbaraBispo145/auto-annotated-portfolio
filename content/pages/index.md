@@ -115,10 +115,7 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: |
-          ![](/images/WhatsApp%20Image%202024-10-29%20at%2012.33.50.jpeg)Botox
-
-          “Amei o resultado índico de olho fechado.”
+        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.33.50.jpeg)Botox\n\n“Amei o resultado índico de olho fechado.\U0001F451”\n"
         name: Débora
         title: Cliente
         image:
