@@ -51,7 +51,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-10-29 at 10.38.42.jpeg
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
