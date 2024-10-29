@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ''
 colors: colors-a
 date: ''
-client: ''
+client: "“Você merece se sentir incrível todos os dias.\U0001F451"
 description: Studio que começou a jornada na beleza em 2016
 featuredImage:
   type: ImageBlock
