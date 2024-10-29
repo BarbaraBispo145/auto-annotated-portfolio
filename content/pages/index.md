@@ -115,9 +115,10 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: |
+          ![](/images/WhatsApp%20Image%202024-10-29%20at%2012.33.50.jpeg)Botox
+
+          “Amei o resultado índico de olho fechado.”
         name: Débora
         title: Cliente
         image:
