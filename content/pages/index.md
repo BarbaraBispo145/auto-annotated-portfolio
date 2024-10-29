@@ -72,6 +72,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/projects/tratamento.md
+      - content/pages/projects/trataments.md
     styles:
       self:
         height: auto
