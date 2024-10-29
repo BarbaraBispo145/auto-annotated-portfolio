@@ -215,4 +215,5 @@ sections:
 socialImage: /images/Barbara Nova Logo 1.png
 metaDescription: Cabelereira
 addTitleSuffix: true
+metaTitle: Studio Barbara Mayara
 ---
