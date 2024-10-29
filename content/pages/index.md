@@ -18,11 +18,9 @@ sections:
       SEU CABELO!
     subtitle: >-
       Barbara Mayara, minha jornada na beleza começou em 2016. Sempre tive esse
-      Sonho de me tomar cabeleireira desse de criança, hoje estou realizanda!sou
-      mãe, sou esposa e tenho o meu próprio negócio Studio Barbara Mayara está
-      no planos de Deus. O Studio Barbara Mayara fica localizado na casa de meus
-      pais, na rua Principal loteamento senhor do Bonfim,um lugar acolhedor,e
-      voltado pra o cuidado com bem-estar e autoestima.
+      Sonho de me tomar cabeleireira desse de criança, hoje estou realizada! Sou
+      mãe. Sou esposa e tenho o meu próprio negócio que desde o começo soube que
+      está no planos de Deus. 
     styles:
       self:
         height: auto
