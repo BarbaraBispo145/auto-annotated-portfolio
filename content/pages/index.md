@@ -170,7 +170,7 @@ sections:
         - name: email
           label: WhatsApp
           hideLabel: true
-          placeholder: Email
+          placeholder: WhatsApp
           isRequired: true
           width: 1/2
           type: EmailFormControl
