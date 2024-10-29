@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Studio Barbara Mayara Hair
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      EU SOU PROFISSIONAL EM CUIDAR DA PARTE DO SEU CORPO QUE VOCÊ MAIS GOSTA,
+      SEU CABELO!
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Sempre tive esse Sonho de me tomar cabeleireira desse de criança, hoje
+      estou realizada! Sou mãe. Sou esposa e tenho o meu próprio negócio que
+      desde o começo soube que está no planos de Deus.
     styles:
       self:
         height: auto
@@ -47,6 +47,67 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-10-29 at 10.38.42.jpeg
+      altText: ''
+      caption: Caption of the image
+      elementId: ''
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-a
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -60,7 +121,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
@@ -84,53 +144,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+    subtitle: Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Entre em contato conosco e faça sua Avaliação e Agendamento ⤵️☎️\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -150,24 +168,19 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: WhatsApp
           hideLabel: true
-          placeholder: Email
+          placeholder: WhatsApp
           isRequired: true
           width: 1/2
           type: EmailFormControl
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: O que você deseja fazer
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
@@ -193,4 +206,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Barbara Nova Logo 1.png
 ---

@@ -5,13 +5,13 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Barbara Mayara Studio Hair",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Contato",
+                "url": "wa.me/message/E3ER3REOHFGRO1"
             },
             {
                 "type": "Link",
@@ -20,30 +20,31 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Meu Refugio",
+                "url": "https://www.bibliaon.com/versiculo/isaias_12_2/",
+                "altText": "Fonte de tudo que tenho"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "WhatsApp",
+                "label": "WhatsApp",
+                "url": "https://www.instagram.com/studio_barbaramayara_hair/",
+                "icon": "instagram"
             }
         ],
         "styles": {
             "self": {
-                "width": "full"
+                "width": "wide"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/Barbara Nova Logo 1.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
@@ -88,7 +89,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
