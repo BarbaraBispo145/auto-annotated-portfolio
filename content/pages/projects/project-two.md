@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: ''
 colors: colors-a
-date: '2021-12-20'
+date: ''
 client: Awesome client
 description: 'Barbara Mayara, minha jornada na beleza começou em 2016'
 featuredImage:
