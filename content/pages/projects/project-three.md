@@ -5,9 +5,8 @@ colors: colors-a
 date: '2024-10-29'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A Escova é Chapinha alinha os fios e deixa o cabelo mais prático pra o dia a
+  dia.
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-10-29 at 10.44.20.jpeg
