@@ -3,7 +3,7 @@ type: ProjectLayout
 title: ''
 colors: colors-a
 date: ''
-client: Awesome client
+client: ''
 description: 'Barbara Mayara, minha jornada na beleza começou em 2016'
 featuredImage:
   type: ImageBlock
