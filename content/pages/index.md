@@ -99,14 +99,12 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
+        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Barbara Mayara \U0001F60D\"\n"
+        name: Lucineide
+        title: ''
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/WhatsApp Image 2024-10-29 at 12.19.55.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
@@ -213,4 +211,7 @@ sections:
       text:
         textAlign: left
 socialImage: /images/Barbara Nova Logo 1.png
+metaDescription: Cabelereira
+addTitleSuffix: true
+metaTitle: Studio Barbara Mayara
 ---

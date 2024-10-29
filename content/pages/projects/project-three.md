@@ -12,10 +12,6 @@ featuredImage:
   caption: >-
     A Escova é Chapinha alinha os fios e deixa o cabelo mais prático pra o dia a
     dia. 
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 ---
 ![](/images/WhatsApp%20Image%202024-10-29%20at%2010.44.20.jpeg)
 
