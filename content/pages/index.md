@@ -123,7 +123,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.30.46.jpeg
-          altText: Johnna Doe
+          altText: Debora
           caption: Caption of the image
           elementId: ''
         elementId: ''
