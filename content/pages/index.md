@@ -89,7 +89,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: 'O que eu faço de Bom:'
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
