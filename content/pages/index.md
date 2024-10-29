@@ -101,12 +101,12 @@ sections:
       - type: Testimonial
         quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Barbara Mayara \U0001F60D\"\n"
         name: Lucineide
-        title: ''
+        title: Cliente
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.19.55.jpeg
           altText: John Doe
-          caption: Caption of the image
+          caption: Botox
           elementId: ''
         elementId: ''
         styles:
@@ -115,16 +115,14 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.33.50.jpeg)Botox\n\n“Amei o resultado índico de olho fechado.\U0001F451”\n"
+        name: Débora
+        title: Cliente
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
+          url: /images/WhatsApp Image 2024-10-29 at 12.30.46.jpeg
+          altText: Debora
+          caption: Botox
           elementId: ''
         elementId: ''
         styles:
