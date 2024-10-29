@@ -17,8 +17,8 @@ sections:
       EU SOU PROFISSIONAL EM CUIDAR DA PARTE DO SEU CORPO QUE VOCÊ MAIS GOSTA,
       SEU CABELO!
     subtitle: >-
-      Sempre tive esse Sonho de me tornar cabeleireira desde criança, hoje estou
-      realizada! Sou mãe. Sou esposa e tenho o meu próprio negócio que desde o
+      Sempre tive esse Sonho de me tornar cabeleireira desde criança. Hoje estou
+      realizada! Sou mãe, sou esposa e tenho o meu próprio negócio. Desde o
       começo soube que está no planos de Deus.
     styles:
       self:
