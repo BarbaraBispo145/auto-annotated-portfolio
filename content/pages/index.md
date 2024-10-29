@@ -99,7 +99,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Bárbara Mayara \U0001F60D\"\n"
+        quote: "![](/images/WhatsApp%20Image%202024-10-29%20at%2012.24.46.jpeg)\n\n\"Ficou Muito lindo. Cada vez melhor. Indico minha cabeleireira Barbara Mayara \U0001F60D\"\n"
         name: Lucineide
         title: ''
         image:
