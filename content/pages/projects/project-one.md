@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/WhatsApp Image 2024-10-29 at 10.44.20.jpeg
+  url: /images/WhatsApp Image 2024-10-29 at 10.44.36.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
