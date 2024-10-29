@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 date: ''
 client: ''
-description: 'Barbara Mayara, minha jornada na beleza começou em 2016'
+description: Studio que começou a jornada na beleza em 2016
 featuredImage:
   type: ImageBlock
   url: /images/Barbara Nova Logo 1.png
