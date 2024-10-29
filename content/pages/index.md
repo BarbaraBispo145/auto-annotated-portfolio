@@ -60,6 +60,7 @@ sections:
       - type: Link
         label: 'Mais Serviços, CLICK AQUI!'
         url: 'https://www.instagram.com/studio_barbaramayara_hair/'
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
