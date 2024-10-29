@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-10-29 at 10.44.20.jpeg
-  altText: Project thumbnail image
+  altText: Escova e Prancha
 media:
   type: ImageBlock
   url: /images/bg3.jpg
