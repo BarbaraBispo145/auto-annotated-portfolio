@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: This is a project title
+title: Progressiva
 date: '2024-10-29'
 client: ''
 description: Click Aqui
