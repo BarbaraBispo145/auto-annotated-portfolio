@@ -106,7 +106,7 @@ sections:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-10-29 at 12.19.55.jpeg
           altText: John Doe
-          caption: Caption of the image
+          caption: Botox
           elementId: ''
         elementId: ''
         styles:
