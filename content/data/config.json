@@ -72,7 +72,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "Contato",
             "phoneNumber": "79 98867-4937",
             "phoneAltText": "",
             "email": "bbispo505@gmail.com",
