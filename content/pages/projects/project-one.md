@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: SELAGEM
 colors: colors-a
-date: '0020-10-29'
+date: '2024-10-29'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
