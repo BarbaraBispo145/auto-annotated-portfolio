@@ -7,7 +7,7 @@ client: Awesome client
 description: 'Barbara Mayara, minha jornada na beleza começou em 2016'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Barbara Nova Logo 1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
