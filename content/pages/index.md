@@ -53,6 +53,49 @@ sections:
       altText: ''
       caption: Caption of the image
       elementId: ''
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions:
+      - type: Link
+        label: 'Mais Serviços, CLICK AQUI!'
+        url: 'https://www.instagram.com/studio_barbaramayara_hair/'
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+      - content/pages/projects/tratamento.md
+      - content/pages/projects/trataments.md
+      - content/pages/projects/progressiva.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    subtitle: 'O que eu faço de Bom:'
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
@@ -108,43 +151,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
