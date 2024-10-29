@@ -15,7 +15,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-10-29 at 10.44.36.jpeg
-  altText: altText of the image
+  altText: selagem
   caption: Caption of the image
   elementId: ''
 ---
