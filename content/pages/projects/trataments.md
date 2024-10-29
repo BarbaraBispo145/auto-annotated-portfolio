@@ -3,7 +3,7 @@ type: ProjectLayout
 title: BOTOX
 date: '2024-10-29'
 client: ''
-description: ''
+description: Click Aqui
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-10-29 at 10.46.57 (1).jpeg
